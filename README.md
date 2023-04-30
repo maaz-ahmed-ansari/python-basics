@@ -14,4 +14,4 @@ https://www.python.org/downloads/
 
   ```jupyter notebook```
 or
-```python -m jupyter notebook```
+```python -m notebook```
